@@ -16,3 +16,8 @@ tests, and produce publication-ready charts.
  python -m venv venv
  source venv/bin/activate # or venv\Scripts\activate on Windows
  pip install -r requirements.txt
+Plot price trend, rolling volatility, and return distribution.
+
+Run normality and mean return t-tests.
+
+Output summary statistics including Sharpe ratio and annualized return
