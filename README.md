@@ -6,8 +6,7 @@ tests, and produce publication-ready charts.
 ## Contents
 - `scripts/` — ETL & plotting scripts
 - `notebooks/` — exploratory notebook with walkthrough and visuals
-- `data/` — sample/placeholder (do NOT include large raw data in repo; use
-`.gitignore`)
+- `data/` — sample/placeholder
 - `artifacts/` — generated CSVs and figures
 - `requirements.txt` — Python dependencies
 ## Quick start
